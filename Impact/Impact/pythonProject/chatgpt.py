@@ -18,5 +18,4 @@ print("=======================================")
 
 
 
-cd C:\capstone\Impact\Impact\pythonProject\GazeTracking
 
