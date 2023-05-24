@@ -17,3 +17,6 @@ print(response["choices"][0]["text"].strip())
 print("=======================================")
 
 
+
+cd C:\capstone\Impact\Impact\pythonProject\GazeTracking
+
